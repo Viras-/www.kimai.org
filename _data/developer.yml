@@ -34,3 +34,10 @@ hmr-it:
     image: https://cdn.hmr-services.de/f/hmr-it/hmr-kimai-logo.png
     homepage: https://hmr-it.de
 
+senegate:
+    name: Senegate Programming
+    description: Delivering IT Solutions since 2005
+    image: https://www.senegate.at/images/senegate_logo.png
+    homepage: https://www.senegate.at/
+    github: https://github.com/Viras-
+    twitter: http://twitter.com/senegate_at
